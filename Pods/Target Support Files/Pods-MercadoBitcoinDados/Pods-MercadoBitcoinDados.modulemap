@@ -1,0 +1,6 @@
+framework module Pods_MercadoBitcoinDados {
+  umbrella header "Pods-MercadoBitcoinDados-umbrella.h"
+
+  export *
+  module * { export * }
+}
